@@ -197,9 +197,9 @@ def main():
     if all_policies_data:
         df = pd.DataFrame(all_policies_data)
         df.to_excel("correlation_policies_AllPartners.xlsx", index=False)
-        print("\n✅ All policy data exported to 'correlation_policies.xlsx'")
+        print("\nAll policy data exported to 'correlation_policies.xlsx'")
     else:
-        print("\n⚠️ No policy data to export.")
+        print("\nNo policy data to export.")
 
 if __name__ == "__main__":
     main()
