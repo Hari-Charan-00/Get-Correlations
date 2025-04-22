@@ -147,26 +147,7 @@ def main():
         return
 
     # Replace with actual partner IDs and names
-    partners = {
-        #"b5c94cda-23bb-b843-6be3-3f929e37e191" : "Tri-Valley"
-        "b46ba025-0c99-416d-955d-10129cf4ed15": "Helixstorm",
-        #"19a0e399-0a1f-343b-0fc1-bfb092f30289": "KMEU",
-        "9384a74d-5370-573a-0608-9a14a25b234e": "All Covered",
-        "fee7887c-1c4e-90aa-b4bc-e6870ac060fc": "Agiliti",
-        "70d37846-efe6-bc75-2907-8ca6e0a9c1f5": "Trace3",
-        "a828cf1c-a23c-4e31-97a5-8005a92fc193": "American Digital",
-        "2af587e3-f7e6-46eb-5b81-f93734209a3b": "Alternative Technology Group",
-        #"305a90cf-6dd1-cae3-fccf-207fe1c11545": "Synclear",
-        "dfba9027-c33d-aa51-5664-3be27e385f99": "Weidenhammer",
-        "1ea490e8-4115-96fb-a3ec-6e88085e9d2f": "UDT",
-        #"df436d26-0f29-a7b9-827c-40e529037060": "CDI",
-        "2f4ac3aa-e30f-b5ea-c273-1fea30e5643a": "CynexLink",
-        "87416916-cee4-71a0-5321-2a9f2e5f2c94": "DataVox",
-        "12010f7a-7695-eb06-436f-d01d89e03054": "Fordham University",
-        "654da5fc-25b4-602b-8055-7635670d21e6": "SymQuest",
-        "da5104c0-f140-8f7d-e779-050f0046dec4": "Xerillion Corporation"
-        
-    }
+    partners = {}
 
     all_policies_data = []
 
